@@ -1,0 +1,3 @@
+ID: ordinary@iiitd.ac.in, Password: password, Name: Ordinary Customer (Non VIP)
+ID: vip@iiitd.ac.in, Password: password, Name: Extraordinary Customer (VIP)
+ID: user@iiitd.ac.in, Password: pass, Name: User
